@@ -45,7 +45,7 @@ section {
 }
 
 .hero {
-  background-image: url(/img/logo1.png);
+  background-image: url(https://github.com/kazuki0601/samplegensaito/blob/main/img/logo1.png?raw=true);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
